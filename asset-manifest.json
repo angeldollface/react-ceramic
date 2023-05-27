@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-ceramic/static/css/main.61c26ef0.css",
-    "main.js": "/react-ceramic/static/js/main.24d21f70.js",
+    "main.js": "/react-ceramic/static/js/main.fa79382d.js",
     "index.html": "/react-ceramic/index.html",
     "main.61c26ef0.css.map": "/react-ceramic/static/css/main.61c26ef0.css.map",
-    "main.24d21f70.js.map": "/react-ceramic/static/js/main.24d21f70.js.map"
+    "main.fa79382d.js.map": "/react-ceramic/static/js/main.fa79382d.js.map"
   },
   "entrypoints": [
     "static/css/main.61c26ef0.css",
-    "static/js/main.24d21f70.js"
+    "static/js/main.fa79382d.js"
   ]
 }
