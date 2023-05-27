@@ -17,7 +17,7 @@ export class FooterCog extends React.Component {
       <>
        <p className="footer">
         Made with love and Glam Metal! XOXO |
-        <a className="footer" href="https://github.com/angeldollface/ceramic">
+        <a className="footer" href="https://github.com/angeldollface/react-ceramic">
          Source
         </a>
        </p>	
